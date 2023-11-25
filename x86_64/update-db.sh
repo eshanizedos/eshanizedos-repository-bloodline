@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Author : Eshan Roy
+# Author URI : https://github.com/eshanized
+
 rm eshanizedos-repository-bloodline*
 
 echo "repo-add"
