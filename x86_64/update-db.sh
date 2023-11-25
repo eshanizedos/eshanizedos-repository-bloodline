@@ -19,6 +19,6 @@ mv eshanizedos-repository-bloodline.db.tar.gz.sig eshanizedos-repository-bloodli
 mv eshanizedos-repository-bloodline.files.tar.gz eshanizedos-repository-bloodline.files
 mv eshanizedos-repository-bloodline.files.tar.gz.sig eshanizedos-repository-bloodline.files.sig
 
-echo "####################################"
+
 echo "Repo Updated!!"
-echo "####################################"
+
