@@ -1,6 +1,6 @@
 #!/bin/bash
 
-rm eshanizedos-repository-bloodline-bloodline*
+rm eshanizedos-repository-bloodline*
 
 echo "repo-add"
 repo-add -s -n -R eshanizedos-repository-bloodline.db.tar.gz *.pkg.tar.zst
